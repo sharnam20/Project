@@ -1,0 +1,13 @@
+body{
+  text-align:center ;
+}
+.choice-button{
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin:10px;
+}
+.choice-image {
+  width: 100px; 
+  height: 100px;
+}
